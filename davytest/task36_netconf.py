@@ -7,7 +7,7 @@ from ncclient.operations import RPCError
 # ==============================================================
 #  INSTELLINGEN
 # ==============================================================
-GITHUB_URL = "https://raw.githubusercontent.com/MichelMichauxPXL/EntNetDavyMichel_lab8.1/main/davytest/router-config.xml"
+GITHUB_URL = "https://raw.githubusercontent.com/DavyHarventPXL/EntNetDavyMichel_lab8.1/main/davytest/router-config.xml"
 
 ROUTER = {
     "host":           "172.17.1.1",   # Management IP van de router (VLAN 11)
