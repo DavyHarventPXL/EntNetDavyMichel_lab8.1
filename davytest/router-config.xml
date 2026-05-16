@@ -41,7 +41,7 @@
       <!-- LAN trunk interface (geen IP, subinterfaces doen het werk) -->
       <GigabitEthernet>
         <name>0/0/0</name>
-        <description>LAN-trunk-aiaiaiaiaiaiiaiaia-switch</description>
+        <description>LAN-trunk-dfeefefefefefe-switch</description>
       </GigabitEthernet>
 
       <!-- Subinterface VLAN 11 Management -->
